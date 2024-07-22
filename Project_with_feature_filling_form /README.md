@@ -1,6 +1,6 @@
-Here, an html file is created where the features required for checking the credit card authenticity is to be entered and the result will be printed in the HTML file itslef
+Here, an HTML file is created where the features required for checking the credit card authenticity is to be entered and the result will be printed in the HTML file itself
 
-#STEPS TO RUN THE PROGRAM
+# STEPS TO RUN THE PROGRAM
 1. Run the backend.py file
 2. The generated http link need to be copy and pasted in the browser
 3. Feature values are required to be entered in the form appeared on the website
