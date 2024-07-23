@@ -4,4 +4,5 @@ Here, an HTML file `index.html` is created where the features required for check
 1. Run the `backend.py` file
 2. The generated http link need to be copy and pasted in the browser
 3. Feature values are required to be entered in the form appeared on the website
-4. Click on Detect Fraud button to check card authencity.
+4. You can either enter values for a single credit card or upload a .csv file for batch results
+5. Click on Detect Fraud button to check card authencity.
